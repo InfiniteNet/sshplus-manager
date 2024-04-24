@@ -2,7 +2,7 @@
 * UPDATE 09/08/2021 - Proyecto Descontinuado
 * SSHPLUS MANAGER (Final Versión 38)
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+![logo](https:/github.com//InfiniteNet/sshplus-manager/blob/master/Imagenes/sshplus-manager.png)
 
 # SSHPLUS MANAGER
 Es un script que ofrece un conjunto de características y herramientas diseñadas para 
@@ -20,13 +20,13 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus && chmod +x Plus* && ./Plus*
+wget https://raw.githubusercontent.com/InfiniteNet/sshplus-manager/master/Plus && chmod +x Plus* && ./Plus*
 ```
 DATA: Las dependencias faltantes se instalarán automáticamente, facilitando tu experiencia.
 
 ## :scroll: Changelog
 **VERSION: 38**
-* [Details](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/versao)
+* [Details](https://raw.githubusercontent.com/InfiniteNet/sshplus-manager/master/Install/Generador/versao)
 
 ## :book: How it works
 * Conexiones SSH
@@ -44,23 +44,23 @@ DATA: Las dependencias faltantes se instalarán automáticamente, facilitando tu
 * El idioma predeterminado es el portugués
 
 ## :book: Optional Utilities
-1. Reinstalar el Scripts ejecutar en consola el comando sshplus [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
+1. Reinstalar el Scripts ejecutar en consola el comando sshplus [Ver Imagen](https://github.com/InfiniteNet/sshplus-manager/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
 ```bash
 root@localhost :~ sshplus
 ```
-2. Skin menú adaptado formato ADM ejecute en consola el comando menuV3 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
+2. Skin menú adaptado formato ADM ejecute en consola el comando menuV3 [Ver Imagen](https://github.com/InfiniteNet/sshplus-manager/blob/master/Imagenes/Update_menuV3.png)
 ```bash
 root@localhost :~ menuV3
 ```
-3. Skin menú adaptado ejecute en consola el comando menuV2 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
+3. Skin menú adaptado ejecute en consola el comando menuV2 [Ver Imagen](https://github.com/InfiniteNet/sshplus-manager/blob/master/Imagenes/Update_menuV2.png)
 ```bash
 root@localhost :~ menuV2
 ```
-4. Restablecer el menú original ejecute en consola el comando menuV1 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+4. Restablecer el menú original ejecute en consola el comando menuV1 [Ver Imagen](https://github.com/InfiniteNet/sshplus-manager/blob/master/Imagenes/SSHPLUS_MANAGER.png)
 ```bash
 root@localhost :~ menuV1
 ```
-5. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
+5. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/InfiniteNet/sshplus-manager/master/Install/Source-Code-SSHPlus.zip)
 
 ## :book: Installation Utilities
 1. [Generador de Key Sshplus Manager](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
